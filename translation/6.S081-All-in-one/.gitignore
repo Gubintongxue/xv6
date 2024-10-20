@@ -1,0 +1,6 @@
+node_modules/
+_book/
+.idea/
+.vscode/
+update.ps1
+book.pdf
