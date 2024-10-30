@@ -13,33 +13,3 @@
 【4】[https://github.com/mit-pdos/xv6-riscv/blob/riscv/kernel/trap.c](https://github.com/mit-pdos/xv6-riscv/blob/riscv/kernel/trap.c)
 
 
-
-### 6.1
-
-已总结
-
-### 6.2
-
-已总结
-
-### 6.3
-
-已总结
-
-### 6.4
-
-已总结
-
-### 6.5
-
-
-
-### 6.6
-
-已总结
-
-### 6.7
-
-
-
-### 6.8
